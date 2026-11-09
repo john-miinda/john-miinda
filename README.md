@@ -1,16 +1,25 @@
-## Hi there 👋
+# john-miinda
 
-<!--
-**john-miinda/john-miinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+This repository is a personal GitHub profile repository for john-miinda.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Overview
+
+It is currently used as a profile landing page and can be customized to showcase:
+
+- projects
+- interests
+- current work
+- contact information
+- links to repositories and profiles
+
+## Quick Start
+
+1. View this profile README on GitHub.
+2. Update the content to reflect your current work and interests.
+3. Add links to important repositories, profiles, or contact channels.
+
+## Notes
+
+This README is intentionally simple and can be expanded with badges, project highlights, and personal information.
