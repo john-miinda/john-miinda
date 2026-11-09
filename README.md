@@ -68,18 +68,17 @@ I enjoy designing robust backend systems, developing intuitive user interfaces, 
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=john-miinda&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-miinda&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=john-miinda&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=john-miinda&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=john-miinda&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=john-miinda&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ## 🤝 Let's Connect
 
